@@ -1,1 +1,1 @@
-# Permuting-Two-Arrays
+# Permuting-Two-Arrays This code checks if it’s possible to permute arrays `A` and `B` such that the sum of each paired element is at least `k` by sorting `A` in ascending and `B` in descending order. It returns `"YES"` if all pairs meet or exceed `k`, otherwise `"NO"`.
